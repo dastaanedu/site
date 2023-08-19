@@ -7,7 +7,7 @@ body, h1, h2, h3, p, ul, li {
 /* Set a background color and text color for the whole page */
 body {
     font-family: Arial, sans-serif;
-    background-color: #000000;
+    background-color: white;
     color: #333;
     line-height: 1.6;
 }
